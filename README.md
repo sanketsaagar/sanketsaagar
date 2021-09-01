@@ -33,7 +33,7 @@ Hi, I'm Sanket Saagar Karan😎 a passionate self-taught Blockchain developer an
 I am open to learn and grow with Blockchain. Feel free to reach out to me for any Query.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/sanketsaagar/sanketsaagar/blob/bde191347fe3eeeb3c4d704959713ede6ef527f3/coding-freak.gif" width="500" height="400" />
   
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
