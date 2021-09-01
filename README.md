@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 Here are some ideas to get you started:
-
+ <img align="right" alt="GIF" src="https://github.com/sanketsaagar/sanketsaagar/blob/d4e753107ccc4e7a269671d7e36d96473efcdb73/giphy.gif" width="350" height="320" />
 - 🔭 I’m currently working on Blockchain Technology
 - 🌱 I’m currently learning Solidity, Rust, Smart Contract Development
 - 👯 I’m looking to collaborate on Blockchain and Smart Contracts
