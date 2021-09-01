@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Blockchain and Smart Contracts
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about NFTs, Defi, Blockchain
-- 📫 How to reach me: sanketsaagar1234@gmail.com
+- 📫 How to reach me: [Email](sanketsaagar1234@gmail.com)
 - 😄 Pronouns: He/Him
 
 
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Sanket Saagar Karan😎 a passionate self-taught Blockchain developer and engineer from india. My passion for Blockchain and Cryptocurrencies pull me to development. I am currently working on Smart Contract development and exploring Different Blockchain Projects.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am open to learn and grow with Blockchain. Feel free to reach out to me for any Query.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
