@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 
-
-
 ### Social Media
 <a href="https://twitter.com/sanket_s_karan">
   <img align="left" alt="Sanket Saagar Karan's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -35,8 +33,6 @@ I am open to learn and grow with Blockchain. Feel free to reach out to me for an
 
   <img align="right" alt="GIF" src="https://github.com/sanketsaagar/sanketsaagar/blob/bde191347fe3eeeb3c4d704959713ede6ef527f3/coding-freak.gif" width="500" height="400" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
@@ -61,15 +57,12 @@ Angular      9 mins          ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketsaagar&layout=compact)](https://github.com/asanketsaagar/github-readme-stats)
 
 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanketsaagar&show_icons=true&theme=gotham" alt="sanketsaagar" />
-
 
 
 
