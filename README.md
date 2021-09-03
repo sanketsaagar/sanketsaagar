@@ -58,15 +58,16 @@ Angular      9 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-
-
-📈 my github stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sanketsaagar&show_icons=true&theme=gotham" alt="sanketsaagar" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sanketsaagar&show_icons=true&theme=dark&locale=en" alt="Sanket Saagar Karan" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketsaagar&show_icons=true&theme=dark&locale=en&layout=compact" alt="sanket" /></td>
+  </tr>
+</table>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketsaagar&theme=dark" alt="Sanket Saagar Karan" /></p>
   </div>
 
- [![SauravMukherjee44's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanketsaagar&theme=xcode)](https://git.io/sanketsaagar)
+ [![sanket's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanketsaagar&theme=xcode)](https://git.io/sanketsaagar)
 
