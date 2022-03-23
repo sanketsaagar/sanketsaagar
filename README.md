@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sanket-saagar-karan/">
   <img align="left" alt="Sanket's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.polywork.com/sanketsaagar">
-  <img align="left" alt="Sanket's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/polywork.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sanketsaagar.sanketsaagar)
 
