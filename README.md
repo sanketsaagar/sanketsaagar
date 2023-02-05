@@ -64,5 +64,3 @@ Angular      9 mins          ▓░░░░░░░░░░░░░░░░
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketsaagar&theme=dark" alt="Sanket Saagar Karan" /></p>
   </div>
 
- [![sanket's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanketsaagar&theme=xcode)](https://git.io/sanketsaagar)
-
