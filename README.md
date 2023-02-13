@@ -61,12 +61,9 @@ Solidity     2 hrs 52 mins   ██████████░░░░░░░
 Python       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 <!--END_SECTION:waka-->
-
-
-
-  <p>
+<p>
     <td><img align = "left" src="https://github-readme-stats.vercel.app/api?username=sanketsaagar&show_icons=true&theme=dark&locale=en" alt="Sanket Saagar Karan" /></td>
-  </p>
+</p>
   
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketsaagar&theme=dark" alt="Sanket Saagar Karan" /></p>
+<p><img align="right" weigth= "30px" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketsaagar&theme=dark" alt="Sanket Saagar Karan" /></p>
 
