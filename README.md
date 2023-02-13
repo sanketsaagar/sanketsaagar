@@ -35,7 +35,21 @@ I am open to learn and grow with Blockchain. Feel free to reach out to me for an
 
 <p align = "left">
   <a href="https://skillicons.dev">
-    <img height = "30" src="https://skillicons.dev/icons?i=solidity,js,html,css,python,cpp" />
+    <img height = "30" src="https://skillicons.dev/icons?i=solidity,js,html,css,python,cpp,java,nodejs" />
+  </a>
+</p>
+
+**Tools :**
+<p align = "left">
+  <a href="https://skillicons.dev">
+    <img height = "30" src="https://skillicons.dev/icons?i=cloudflare,eclipse,github,kubernetes,vscode" />
+  </a>
+</p>
+
+**Platform:**
+<p align = "left">
+  <a href="https://skillicons.dev">
+    <img height = "30" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,wordpress" />
   </a>
 </p>
 
@@ -44,8 +58,7 @@ I am open to learn and grow with Blockchain. Feel free to reach out to me for an
 ```text
 Rust         3 hrs 56 mins   █████████████▓░░░░░░░░░░░   55.01 % 
 Solidity     2 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   40.27 % 
-Python       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Angular      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Python       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 <!--END_SECTION:waka-->
 
