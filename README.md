@@ -64,11 +64,9 @@ Python       10 mins         ▓░░░░░░░░░░░░░░░░
 
 
 
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sanketsaagar&show_icons=true&theme=dark&locale=en" alt="Sanket Saagar Karan" /></td>
-  </tr>
+  <p>
+    <td><img align = "left" src="https://github-readme-stats.vercel.app/api?username=sanketsaagar&show_icons=true&theme=dark&locale=en" alt="Sanket Saagar Karan" /></td>
+  </p>
   
-<div align="center">
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketsaagar&theme=dark" alt="Sanket Saagar Karan" /></p>
-  </div>
 
