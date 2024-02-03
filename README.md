@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain Technology<br>🌱 I’m currently learning Solidity, Rust, Smart Contract Development<br>👯 I’m looking to collaborate on Blockchain and Smart Contracts<br>🤔 I’m looking to explore new technologies<br>💬 Ask me about NFTs, Defi, and Blockchain<br>📫 How to reach me: Email<br>😄 Pronouns: He/Him
+🔭 I’m currently working on Blockchain Technology<br>🌱 I’m currently learning Solidity, Rust, Smart Contract Development<br>👯 I’m looking to collaborate on Blockchain and Smart Contracts<br>🤔 I’m looking to explore new technologies<br>💬 Ask me about NFTs, Defi, and Blockchain<br>📫 How to reach me: [Email](sanketsaagar1234@gmail.com)<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
